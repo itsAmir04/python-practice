@@ -1,0 +1,72 @@
+body{
+            background: rgb(40,56,134);
+            background: linear-gradient(90deg, rgba(40,56,134,1) 0%, rgba(68,91,200,1) 50%, rgba(87,113,238,1) 100%);
+    }
+#logo_pic{
+            width: 80px; 
+            height: 80px;
+     }
+#main_div{
+            border-radius: 20px 20px 20px 20px ;
+            height: 450px;
+            width: 250px;
+            background: white;
+            border: 1px solid white;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 10px;color: #445bc8;
+         }
+.tx_user_pass{
+            text-align:right;
+            width: 200px;
+            height: 25px;
+            border-radius: 11px;
+            border-color: #445bc8;
+            outline: none
+            }
+#sec_pic{
+            border: 3px solid #445bc8;
+            width: 200px;
+            border-radius:9px ;
+        }
+    
+#tx_sec{
+            text-align:center;
+            width: 200px;
+            height: 25px;
+            border-radius: 11px;
+            border-color: #445bc8;
+            outline: none
+        }
+#btn_enter{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+            background: rgb(40,56,134);
+            background: linear-gradient(90deg, rgba(40,56,134,1) 0%, rgba(68,91,200,1) 50%, rgba(87,113,238,1) 100%); 
+            border-radius: 11px;
+            width: 200px;
+            height: 30px;
+            color: white;
+            border-color: white;
+            outline: none;
+
+          }
+#btn_Fpass{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+            background: rgb(156,157,162);
+            background: linear-gradient(90deg, rgba(156,157,162,1) 0%, rgba(93,96,113,1) 37%, rgba(94,95,99,1) 100%);
+            border-radius: 11px;
+            width: 200px;
+            height: 30px;
+            color: white;
+            border-color: white;
+            outline: none;
+          }
+#btn_fastCH{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            background: rgb(250,160,90);
+            background: linear-gradient(90deg, rgba(250,160,90,1) 0%, rgba(230,139,67,1) 57%, rgba(231,131,53,1) 100%);   border-radius: 11px;
+            width: 200px;
+            height: 30px;
+            color: white;
+            border-color: white;
+            outline: none;
+           }
